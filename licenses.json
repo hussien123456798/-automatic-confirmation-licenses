@@ -1,0 +1,29 @@
+{
+  "licenses": [
+    {
+      "key": "VFC-9A2K-X7P1",
+      "active": true,
+      "customer": "Customer 1"
+    },
+    {
+      "key": "VFC-B4M8-Q2L5",
+      "active": true,
+      "customer": "Customer 2"
+    },
+    {
+      "key": "VFC-H9T3-W6N1",
+      "active": true,
+      "customer": "Customer 3"
+    },
+    {
+      "key": "VFC-R5Y7-K8D2",
+      "active": true,
+      "customer": "Customer 4"
+    },
+    {
+      "key": "VFC-P2X4-Z9J6",
+      "active": true,
+      "customer": "Customer 5"
+    }
+  ]
+}
