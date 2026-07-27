@@ -2,15 +2,33 @@
   "licenses": [
     {
       "key": "VFC-9A2K-X7P1",
-      "active": true,
-      "expires": "2026-12-31",
-      "customer": "Customer 1"
+      "customer": "Customer 1",
+      "enabled": true,
+      "expires": "2026-12-31"
     },
     {
       "key": "VFC-B4M8-Q2L5",
-      "active": false,
-      "expires": "2026-08-01",
-      "customer": "Customer 2"
+      "customer": "Customer 2",
+      "enabled": true,
+      "expires": "2026-11-30"
+    },
+    {
+      "key": "VFC-H9T3-W6N1",
+      "customer": "Customer 3",
+      "enabled": true,
+      "expires": "2026-10-31"
+    },
+    {
+      "key": "VFC-R5Y7-K8D2",
+      "customer": "Customer 4",
+      "enabled": true,
+      "expires": "2026-09-30"
+    },
+    {
+      "key": "VFC-P2X4-Z9J6",
+      "customer": "Customer 5",
+      "enabled": true,
+      "expires": "2026-08-31"
     }
   ]
 }
