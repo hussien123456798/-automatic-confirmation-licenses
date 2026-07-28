@@ -3,7 +3,7 @@
     {
       "key": "VFC-9A2K-X7P1",
       "customer": "Customer 1",
-      "enabled": true,
+      "enabled": false,
       "expires": "2026-12-31"
     },
     {
