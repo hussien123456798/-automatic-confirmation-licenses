@@ -2,9 +2,9 @@
   "licenses": [
     {
       "key": "VFC-9A2K-X7P1",
-      "customer": "Customer 1",
-      "enabled": false,
-      "expires": "2024-12-31"
+      "customer": "3SHRY",
+      "enabled": true,
+      "expires": "2026-8-2"
     },
     {
       "key": "VFC-B4M8-Q2L5",
